@@ -26,6 +26,4 @@
             <td>18</td>
             <td>男</td>
         <tr>  
-    </table>
-</body>
-</html>
+
