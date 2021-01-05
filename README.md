@@ -1,5 +1,3 @@
-# DIY
-This is my first works!!!
 <!DOCTYPE html>
 <html lang="en">
 <head>
