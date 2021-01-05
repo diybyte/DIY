@@ -4,7 +4,7 @@
 </head>
 <body>
     <!-- table的几个重要属性，边框宽度，表格宽和高，表格居中或居左右，单元格之间的距离，格内数据与格的距离 -->
-    <table border="1" width="500" height="200" align="center" cellspacing="0" cellpadding="10">
+    <table border="1" width="500" height="200" align="center" cellspacing="2" cellpadding="10">
         <tr>  
             <td>姓名</td>
             <td>年龄</td>
