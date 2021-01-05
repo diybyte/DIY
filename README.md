@@ -5,7 +5,7 @@ This is my first works!!!
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>表格</title>
 </head>
 <body>
     <!-- table的几个重要属性，边框宽度，表格宽和高，表格居中或居左右，单元格之间的距离，格内数据与格的距离 -->
